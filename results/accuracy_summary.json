@@ -1,0 +1,14 @@
+[
+  {
+    "Model":"RGB ResNet18",
+    "Test Accuracy":0.757
+  },
+  {
+    "Model":"MS ResNet18",
+    "Test Accuracy":0.9259
+  },
+  {
+    "Model":"Physics-aware MS",
+    "Test Accuracy":0.9469
+  }
+]

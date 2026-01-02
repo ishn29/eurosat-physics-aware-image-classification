@@ -1,0 +1,4 @@
+Model,Test Accuracy
+RGB ResNet18,0.757
+MS ResNet18,0.9259
+Physics-aware MS,0.9469
