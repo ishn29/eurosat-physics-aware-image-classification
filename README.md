@@ -1,4 +1,4 @@
-# eurosat-physics-aware-image-classification
+# Eurosat Physics Aware Image Classification
 Physics-aware satellite image classification using multispectral Sentinel-2 data (EuroSAT).
 
 
